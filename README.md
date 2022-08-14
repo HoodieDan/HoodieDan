@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Daniel Obode</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="300px" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoodiedan&label=Profile%20views&color=0e75b6&style=flat" alt="hoodiedan" /> </p>
 
-<p align="left"> <a href="https://twitter.com/osemuu" target="blank"><img src="https://img.shields.io/twitter/follow/osemuuu?logo=twitter&style=for-the-badge" alt="osemuu" /></a> </p>
+<p align="left"> <a href="https://twitter.com/osemuu" target="__blank"><img src="https://img.shields.io/twitter/follow/osemuuu?logo=twitter&style=for-the-badge" alt="osemuu" /></a> </p>
 
 - 🔭 I’m currently working on **A fullstack music player web application**
 
@@ -21,9 +21,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/osemuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="osemuuu" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/daniel-obode-334144195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel obode" height="30" width="40" /></a>
-<a href="https://instagram.com/the.7th.kind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the.7th.kind" height="30" width="40" /></a>
+<a href="https://twitter.com/osemuu" target="__blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="osemuuu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/daniel-obode-334144195/" target="__blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel obode" height="30" width="40" /></a>
+<a href="https://instagram.com/the.7th.kind" target="__blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the.7th.kind" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
