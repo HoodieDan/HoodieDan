@@ -34,11 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoodiedan&show_icons=true&locale=en" alt="hoodiedan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoodiedan&" alt="hoodiedan" /></p>
-
-<style>
-  @media (max-width: 575px) {
-    .coding {
-    width: 80vw;
-    }
-  }
-</style>
