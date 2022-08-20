@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Obode</h1>
-<h3 align="center">A passionate frontend developer.</h3>
+<h3 align="center">A Frontend Web Developer.</h3>
 
 <img class="coding" align="right" alt="coding" width="350px" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
