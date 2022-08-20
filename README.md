@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Obode</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
-<img class="coding" align="right" alt="coding" width="400px" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img class="coding" align="right" alt="coding" width="350px" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoodiedan&label=Profile%20views&color=0e75b6&style=flat" alt="hoodiedan" /> </p>
 
