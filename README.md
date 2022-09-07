@@ -31,6 +31,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoodiedan&show_icons=true&locale=en&layout=compact" alt="hoodiedan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoodiedan&show_icons=true&locale=en" alt="hoodiedan" /></p>
+<img alt="abdullmustyy's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hoodiedan&show_icons=true&include_all_commits=true&count_private=true&theme=github-dark-blue&hide_border=true&bg_color=1F222E&text_color=c9d1d9" height="192px"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoodiedan&" alt="hoodiedan" /></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hoodiedan&theme=github-dark-blue&hide_border=true&background=1F222E)](https://git.io/streak-stats)
