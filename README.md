@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/osemuu" target="__blank"><img src="https://img.shields.io/twitter/follow/osemuuu?logo=twitter&style=for-the-badge" alt="osemuu" /></a> </p>
 
-- 🔭 I’m currently working on **A fullstack music player web application**
+- 🔭 I’m currently working on **A social network for developers.**
 
 - 🌱 I’m currently learning **Typescript**
 
