@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniel Obode</h1>
+H<h1 align="center">Hi 👋, I'm Daniel Obode</h1>
 <h3 align="center">A Frontend Web Developer.</h3>
 
 <img class="coding" align="right" alt="coding" width="350px" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/osemuu" target="__blank"><img src="https://img.shields.io/twitter/follow/osemuuu?logo=twitter&style=for-the-badge" alt="osemuu" /></a> </p>
 
-- 🔭 I’m currently working on **A social network for developers.**
+- 🔭 I’m currently working on **A social network for techies.**
 
 - 🌱 I’m currently learning **Typescript**
 
