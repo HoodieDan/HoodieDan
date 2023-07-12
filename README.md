@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **A social network for techies.**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Flutter and Dart**
 
 - 👨‍💻 All of my projects are available at [https://hoodiedan.netlify.app/](https://hoodiedan.netlify.app/)
 
